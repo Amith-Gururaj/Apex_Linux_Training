@@ -1,1 +1,2 @@
 5. grep -v "bash" /etc/passwd
+7. grep -C 3 "error" demo_file
