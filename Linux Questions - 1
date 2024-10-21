@@ -11,4 +11,6 @@
 
 15. grep -wc "error" demo_file
 
+16. tail -20 demo_file | grep "error"
+
 
