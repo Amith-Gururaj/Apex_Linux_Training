@@ -1,4 +1,12 @@
 5. grep -v "bash" /etc/passwd
+
 7. grep -C 3 "error" demo_file
+
 8. grep "root*" /etc/passwd
+
+14. ls /var/log
+    ls /var/log | grep "error"
+
+15. grep -wc "error" demo_file
+
 
